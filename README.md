@@ -1,5 +1,5 @@
 # TendableProject
-Step 1 : D/w project from Git
+Step 1 : D/w project from Git( Master Branch)
 Step 2: Import To ecllipse
 Step3 : Run testng.xml file
 
